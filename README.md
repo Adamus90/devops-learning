@@ -1,3 +1,3 @@
 # DevOps Learning
 
-Repository for learning Git and Linux basics.
+Repository for learning Git basics at the moment.
