@@ -1,3 +1,4 @@
 # DevOps Learning
 
-Repository for learning Git basics at the moment.
+This repository documents my journey learning DevOps fundamentals.
+Currently focusing on Git basics and workflows.
