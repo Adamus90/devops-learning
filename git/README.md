@@ -6,3 +6,5 @@ Ok, so let's make this file my progress log so far:
 4. Cloned my repo to my other PC at work so I can practice there as well.
 5. Pulled the changes I made at work PC
 6. Another pulling exercices + pushing the changes etc.
+7. Another step in learning git - branching.
+8. 
